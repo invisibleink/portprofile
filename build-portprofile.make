@@ -3,7 +3,7 @@ core = 7.x
 includes[] = drupal-org-core.make
 projects[portprofile][type] = profile
 projects[portprofile][downoload][type] = git
-projects[portprofile][download][source] = /home/git/portprofile.git
+projects[portprofile][download][source] = https://github.com/invisibleink/portprofile.git
 
 ; Modules
 projects[admin_menu][version] = "3.0-rc4"

@@ -1,6 +1,10 @@
 api = 2
 core = 7.x
 includes[] = drupal-org-core.make
+projects[] = portprofile
+projects[portprofile][type] = profile
+projects[portprofile][downoload_type] = git
+projects[portprofile][download][source] = /home/git/portprofile.git
 
 ; Modules
 projects[admin_menu][version] = "3.0-rc4"

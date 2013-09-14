@@ -5,5 +5,6 @@ projects[drupal][version] = 7.23
 projects[portprofile][type] = profile
 projects[portprofile][downoload][type] = git
 projects[portprofile][download][url] = https://github.com/invisibleink/portprofile.git
+projects[portprofile][revision] = master
 
 includes[] = drupal-org.make

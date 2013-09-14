@@ -1,3 +1,6 @@
+api = 2
+core = 7.x
+
 ; Modules
 projects[admin_menu][version] = "3.0-rc4"
 

@@ -1,6 +1,10 @@
 name = Portfolio Publish
+project = "portprofile"
+version = "7.x-1.0"
 description = Portfolio for published work
 core = 7.x
+files[] = portprofile.profile
+
 dependencies[] = block
 dependencies[] = color
 dependencies[] = comment

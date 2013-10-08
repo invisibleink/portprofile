@@ -47,6 +47,7 @@ dependencies[] = nat
 dependencies[] = panels
 dependencies[] = page_manager
 dependencies[] = pathauto
+dependencies[] = page_title
 dependencies[] = pdf_reader
 dependencies[] = strongarm
 dependencies[] = token

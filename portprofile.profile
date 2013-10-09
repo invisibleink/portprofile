@@ -23,15 +23,6 @@ function portprofile_install_tasks($install_state) {
             'run' => 'INSTALL_TASK_RUN_IF_NOT_COMPLETED',
             'function' => 'portprofile_set_site_info',
         ),
-        
-        // 'disable_frufru' => array(
-        //     'display_name' => st(''),
-        //     'display' => TRUE,
-        //     'type' => 'normal',
-        //     'run' => 'INSTALL_TASK_RUN_IF_NOT_COMPLETED',
-        //     'function' => '',
-        // ),
-
     );
     
     return $tasks;
